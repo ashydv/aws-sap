@@ -17,5 +17,5 @@ Whitepapers:
 -   [Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 -   [Practicing CI and CD on AWS Accelerating Software Delivery with DevOps](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf) 
 -   [Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
--   [Amazon Web Services](Overview of Security Processes: https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
+-   [AWS Overview of Security Processes](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
 
