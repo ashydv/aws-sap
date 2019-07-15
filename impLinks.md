@@ -18,4 +18,4 @@ Whitepapers:
 -   [Practicing CI and CD on AWS Accelerating Software Delivery with DevOps](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf) 
 -   [Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
 -   [AWS Overview of Security Processes](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
-
+-   [Using Amazon Web Services for Disaster Recovery](https://d1.awsstatic.com/whitepapers/aws-disaster-recovery.pdf)
