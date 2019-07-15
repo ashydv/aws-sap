@@ -12,7 +12,7 @@ Recommended Courses:
 -   [Deep Dive into Amazon Elastic Block Store](https://www.aws.training/learningobject/wbc?id=16362)
 -   [Deep Dive into Elastic File System](https://www.aws.training/learningobject/curriculum?id=25384)
 -   [Migrating and Tiering Storage to AWS](https://www.aws.training/learningobject/wbc?id=16368)
--   [Exam Readiness Workshop](https://www.aws.training/learningobject/wbc?id=34737)
+<>-   [Exam Readiness Workshop](https://www.aws.training/learningobject/wbc?id=34737)
 
 
 
