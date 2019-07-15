@@ -4,10 +4,10 @@ Recommended Courses:
 -   [AWS Security Fundamentals](https://aws.amazon.com/training/course-descriptions/security-fundamentals/)
 -   [AWS Well-Architected Training](https://www.aws.training/learningobject/curriculum?id=12049)
 -   [EC2 Systems manager](https://www.aws.training/learningobject/curriculum?id=13830)
--   [Migrating to AWS](https://www.aws.training/training/schedule?courseId=10026)
 -   [Deep Dive into Amazon Elastic Block Store](https://www.aws.training/learningobject/wbc?id=16362)
 -   [Deep Dive into Elastic File System](https://www.aws.training/learningobject/curriculum?id=25384)
 -   [Migrating and Tiering Storage to AWS](https://www.aws.training/learningobject/wbc?id=16368)
+-   [Exam Readiness Workshop](https://www.aws.training/learningobject/wbc?id=34737)
 
 
 
