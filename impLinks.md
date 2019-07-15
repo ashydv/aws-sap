@@ -23,3 +23,6 @@ Whitepapers:
 -   [Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
 -   [AWS Overview of Security Processes](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
 -   [Using Amazon Web Services for Disaster Recovery](https://d1.awsstatic.com/whitepapers/aws-disaster-recovery.pdf)
+-   [Securing Data at Rest with Encryption](http://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf)
+-   [Web Application Hosting in the AWS Cloud](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)
+-   [Migrating AWS Resources to a New Region](http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf)
