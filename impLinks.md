@@ -1,3 +1,5 @@
+AWS Certified Solutions Architect - Professional
+
 -   [Certification information](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
 Recommended Courses:
