@@ -1,6 +1,6 @@
 Recommended Courses:
 
--   [Architecting on AWS](https://aws.amazon.com/training/course-descriptions/advanced-architecting/)
+-   [Advance Architecting on AWS](https://aws.amazon.com/training/course-descriptions/advanced-architecting/)
 -   [AWS Security Fundamentals](https://aws.amazon.com/training/course-descriptions/security-fundamentals/)
 -   [AWS Well-Architected Training](https://www.aws.training/learningobject/curriculum?id=12049)
 -   [EC2 Systems manager](https://www.aws.training/learningobject/curriculum?id=13830)
