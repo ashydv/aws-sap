@@ -1,3 +1,5 @@
+-   [Certification information](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+
 Recommended Courses:
 
 -   [Advanced Architecting on AWS](https://aws.amazon.com/training/course-descriptions/advanced-architecting/)
