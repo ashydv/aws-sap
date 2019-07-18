@@ -27,3 +27,8 @@ Whitepapers:
 -   [Securing Data at Rest with Encryption](http://d0.awsstatic.com/whitepapers/AWS_Securing_Data_at_Rest_with_Encryption.pdf)
 -   [Web Application Hosting in the AWS Cloud](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)
 -   [Migrating AWS Resources to a New Region](http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf)
+
+Others
+
+-   [AWS Documents](https://docs.aws.amazon.com/)
+-   [AWS Architect Center](https://aws.amazon.com/architecture/)
